@@ -1,0 +1,6 @@
+1. install Python
+2. install MongoDB https://www.mongodb.com/try/download/community
+3. install PyCharm
+4. create new Respository -> fastapi-mongodb-crudapp
+5. go to your folder and clone github ->gitbash "git clone URL"
+6. Open in Pycharm the folder
